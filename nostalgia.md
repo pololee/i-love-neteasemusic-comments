@@ -17,6 +17,7 @@
 ```
 
 ```
-“It was to slough off a burden of nostalgia that you went so far away.”（你走了那么远的路，只是为了摆脱怀旧的负重。）——卡尔维诺，《看不见的城市》第六章
+“It was to slough off a burden of nostalgia that you went so far away.”
+（你走了那么远的路，只是为了摆脱怀旧的负重。）——卡尔维诺，《看不见的城市》第六章
 ```
 
